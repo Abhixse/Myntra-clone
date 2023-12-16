@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200&family=Montserrat:wght@100&display=swap');
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.left img{
+    width: 32px;
+    height: 23px;
+}
+.cointainer {
+    /* max-width: 80vw; */
+    padding: 0 12px;
+    margin: auto;
+}
+nav ul li {
+    list-style: none;
+    padding: 0 12px; 
+}
+.section1{
+    background-color: #f3f0f00e;
+}
+header {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    height: 8vh;
+}
+img {
+    width: 100%;
+
+}
+.blank {
+    width: 700px;
+    height: 5vh;
+    background-color: lightblue;
+    padding: 12px;
+  position: relative;
+  left: 25%;
+}
+.image-2{
+    margin: 14px;
+    width: 95%;
+    padding: 0 12px;
+    position: relative;
+    bottom: 9px;
+}
+.image-3 {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    bottom: 27px;
+}
+.image-4th1st {
+width: 40%;
+
+}
+.image-4th2nd {
+    width:40%;
+}
+.th4-image {
+position: relative;
+left: 10%;
+}
+.image-5 {
+    position: relative;
+    right: 7%;
+}
+.side-image{
+    height: 5%;
+}
+
+.fleximage1{
+    height: 46vh;
+}
+.image-new {
+    height: 30vh;
+    width: 100%;
+}
+.fleximage3 {
+    width: 198px;
+    display: inline-flex;
+    justify-content: center;
+    position: relative;
+    left: 25%;
+}
+li {
+    list-style: none;
+}
+.last {
+    background-color: #d3d3d3;
+    font-family: Assistant,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+footer {
+  
+    font-family: 'Assistant', sans-serif;
+font-family: 'Montserrat', sans-serif;
+background-color: lightgray;
+}
+a {
+    list-style: none;
+}
