@@ -1,7 +1,9 @@
+#Project Name: Myntra-Clone-Webpage
+
+
 ### Myntra-clone
 Creating a Git repository for a Myntra clone web page involves setting up version control to track changes and collaborate with others on your project.
 
-#Project Name: Myntra-Clone-Webpage
 
 Description:
 This Git repository serves as the version control system for the development of a Myntra clone web page. The goal of this project is to replicate the core functionalities and design elements of the popular Myntra e-commerce platform for educational and learning purposes.
